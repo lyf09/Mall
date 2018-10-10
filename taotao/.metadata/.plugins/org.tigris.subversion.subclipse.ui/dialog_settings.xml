@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="566" key="RevertDialog.location.x"/>
+	<item value="500" key="CommitDialog.weights.0"/>
+	<item value="500" key="CommitDialog.weights.1"/>
+	<item value="512" key="ChooseUrlDialog.size.x"/>
+	<item value="422" key="ChooseUrlDialog.size.y"/>
+	<item value="757" key="passwordStores.size.y"/>
+	<item value="1920" key="passwordStores.size.x"/>
+	<item value="210" key="RevertDialog.location.y"/>
+	<item value="136" key="HistoryTableProvider.SVNHistoryPage.修订"/>
+	<item value="679" key="HistoryTableProvider.SVNHistoryPage.注释"/>
+	<item value="340" key="HistoryTableProvider.SVNHistoryPage.日期"/>
+	<item value="271" key="HistoryTableProvider.SVNHistoryPage.作者"/>
+	<item value="" key="DirectorySelectionPage.lastParent_https://127.0.0.1:8843/svn/taotao"/>
+	<item value="366" key="CommitDialog.location.y"/>
+	<item value="374" key="CommitDialog.location.x"/>
+	<item value="13" key="passwordStores.location.y"/>
+	<item value="0" key="passwordStores.location.x"/>
+	<item value="788" key="RevertDialog.size.x"/>
+	<item value="461" key="RevertDialog.size.y"/>
+	<item value="https://127.0.0.1:8443/svn/itcast" key="RepositorySelectionPage.lastRepository"/>
+	<item value="1255" key="ChooseUrlDialog.location.x"/>
+	<item value="1546" key="CommitDialog.size.x"/>
+	<item value="394" key="ChooseUrlDialog.location.y"/>
+	<item value="593" key="CommitDialog.size.y"/>
+	<item value="taotao/taotao-cart" key="DirectorySelectionPage.lastParent_https://127.0.0.1:8443/svn/itcast"/>
+	<section name="CommitWizard">
+		<item value="false" key="ShowCompare"/>
+		<item value="500" key="VWeight2"/>
+		<item value="500" key="VWeight1"/>
+	</section>
+	<section name="NewLocationWizard">
+		<list key="ConfigurationWizardMainPage.STORE_URL_ID">
+			<item value="https://127.0.0.1:8843/svn/taotao"/>
+		</list>
+	</section>
+</section>

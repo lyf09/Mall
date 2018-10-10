@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="issueManagementUrl">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\taotao\taotao-parent\pom.xml"/>
+			<item value="C:\taotao\dubbo-b"/>
+			<item value="C:\taotao\taotao-web"/>
+			<item value="C:\taotao"/>
+			<item value="C:\taotao\taotao-commons"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item value="835" key="height"/>
+		<item value="504" key="width"/>
+		<item value="0" key="y"/>
+		<item value="767" key="x"/>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="groupId">
+		</list>
+		<list key="package">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.MavenProjectSelectionDialog">
+		<item value="453" key="height"/>
+		<item value="480" key="width"/>
+		<item value="358" key="y"/>
+		<item value="1013" key="x"/>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\taotao\taotao-commons"/>
+			<item value="C:\taotao\taotao-cart"/>
+			<item value="C:\taotao\dubbo-b-api"/>
+			<item value="C:\taotao\dubbo-b"/>
+			<item value="C:\taotao\dubbo-a"/>
+			<item value="C:\taotao\itcast-rabbitmq"/>
+			<item value="C:\taotao\itcast-solrj"/>
+			<item value="C:\taotao\taotao-order"/>
+			<item value="C:\Users\laiyu\Desktop\淘淘商城\课后资料\day06（淘淘商城05 - Redis入门）\代码\itcast-redis"/>
+			<item value="C:\taotao\taotao-manager"/>
+			<item value="C:\taotao\taotao-parent"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+		</list>
+	</section>
+	<section name="MavenModuleWizardParentPage">
+		<list key="moduleName">
+			<item value="taotao-web-service"/>
+			<item value="taotao-manager-web"/>
+			<item value="taotao-manager-mapper"/>
+			<item value="taotao-manager-service"/>
+			<item value="taotao-manager-pojo"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.lyf.sso"/>
+			<item value="com.taotao.sso.query"/>
+			<item value="com.taotao.parent"/>
+			<item value="cn.itcast.dubbo"/>
+			<item value="dubbo-b"/>
+			<item value="com.taotao.cart"/>
+			<item value="com.taotao.search"/>
+			<item value="com.taotao.order"/>
+			<item value="com.taotao.sso"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="lyf-sso"/>
+			<item value="taotao-sso-query-service"/>
+			<item value="taotao-parent"/>
+			<item value="taotao-sso-query-api"/>
+			<item value="dubbo-b-api"/>
+			<item value="dubbo-a"/>
+			<item value="dubbo-b"/>
+			<item value="taotao-cart"/>
+			<item value="taotao-search"/>
+			<item value="taotao-order"/>
+			<item value="taotao-sso"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+			<item value="1.0.0-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,12 @@
+C:\taotao\taotao-cart\src\main\java\com\taotao\cart\mapper\CartMapper.java
+C:\taotao\taotao-cart\src\main\java\com\taotao\cart\pojo\Cart.java
+C:\taotao\taotao-cart\src\main\java\com\taotao\cart\service\UserService.java
+C:\taotao\taotao-cart\src\main\java\com\taotao\cart\controller\CartController.java
+C:\taotao\taotao-cart\src\main\java\com\taotao\cart\bean\Item.java
+C:\taotao\taotao-cart\src\main\java\com\taotao\cart\bean\User.java
+C:\taotao\taotao-cart\src\main\java\com\taotao\cart\service\ItemService.java
+C:\taotao\taotao-cart\src\main\java\com\taotao\cart\service\CartService.java
+C:\taotao\taotao-cart\src\main\java\com\taotao\cart\interceptor\UserLoginHandleInterceptor.java
+C:\taotao\taotao-cart\src\main\java\com\taotao\cart\threadlocal\UserThreadLocal.java
+C:\taotao\taotao-cart\src\main\java\com\taotao\cart\service\CartCookieService.java
+C:\taotao\taotao-cart\src\main\java\com\taotao\cart\controller\api\ApiCartController.java

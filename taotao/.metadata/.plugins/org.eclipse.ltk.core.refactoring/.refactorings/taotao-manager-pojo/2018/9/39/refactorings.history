@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Item.java&apos; to &apos;pojo&apos;&#x0D;&#x0A;- Original project: &apos;taotao-manager-pojo&apos;&#x0D;&#x0A;- Destination element: &apos;pojo&apos;&#x0D;&#x0A;- Original element: &apos;com.taotao.manager.pojo.Item.java&apos;" description="Copy compilation unit" element1="/src\/main\/java&lt;com.taotao.manager.pojo{Item.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1538136781756" target="/itcast-solrj/src/main/java/cn/itcast/solrj/pojo" units="1" version="1.0"/>
+</session>

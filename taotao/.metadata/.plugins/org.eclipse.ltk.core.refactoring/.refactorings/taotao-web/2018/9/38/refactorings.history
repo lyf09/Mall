@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.taotoa.web.bean&apos; to &apos;com.taotao.web.bean&apos;&#x0D;&#x0A;- Original project: &apos;taotao-web&apos;&#x0D;&#x0A;- Original element: &apos;taotao-web/src/main/java/com.taotoa.web.bean&apos;&#x0D;&#x0A;- Renamed element: &apos;taotao-web/src/main/java/com.taotao.web.bean&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.taotoa.web.bean&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java&lt;com.taotoa.web.bean" name="com.taotao.web.bean" qualified="false" references="true" stamp="1537609294421" textual="false" version="1.0"/>
+</session>

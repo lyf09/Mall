@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 4 elements to &apos;taotao-sso-query-service/src/main/resources&apos;&#x0D;&#x0A;- Original project: &apos;taotao-sso&apos;&#x0D;&#x0A;- Destination element: &apos;taotao-sso-query-service/src/main/resources&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     log4j.properties&#x0D;&#x0A;     env.properties&#x0D;&#x0A;     redis.properties&#x0D;&#x0A;     spring" description="Copy elements" destination="=taotao-sso-query-service/src\/main\/resources" element1="src/main/resources/log4j.properties" element2="src/main/resources/env.properties" element3="src/main/resources/redis.properties" element4="src/main/resources/spring" files="3" flags="589830" folders="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1538641023580" units="0" version="1.0"/>
+</session>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+  <uri name="http://www.springframework.org/schema/rabbit" uri="file:///C:/taotao/xsd/spring-rabbit-1.4.xsd"/>
+  <uri name="http://code.alibabatech.com/schema/dubbo" uri="file:///C:/taotao/xsd/dubbo.xsd"/>
+  <system systemId="http://code.alibabatech.com/schema/dubbo/dubbo.xsd" uri="file:///C:/taotao/xsd/dubbo.xsd"/>
+</catalog>
