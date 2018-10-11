@@ -1,0 +1,9 @@
+com\taotao\manager\service\ItemDescService.class
+com\taotao\manager\service\PropertieService.class
+com\taotao\manager\service\ContentCategoryService.class
+com\taotao\manager\service\ContentService.class
+com\taotao\manager\service\ItemCatService.class
+com\taotao\manager\service\BasicService.class
+com\taotao\manager\service\ItemParamService.class
+com\taotao\manager\service\ItemService.class
+com\taotao\manager\service\ItemParamItemService.class

@@ -1,0 +1,17 @@
+com\taotao\manager\controller\api\ApiItemDescController.class
+com\taotao\manager\controller\ContentCategoryController.class
+com\taotao\manager\datasource\DataSourceAspect.class
+com\taotao\manager\controller\ContentController.class
+com\taotao\manager\controller\api\ApiContentController.class
+com\taotao\manager\controller\api\ApiItemCatController.class
+com\taotao\manager\controller\ItemParamController.class
+com\taotao\manager\controller\ItemCatController.class
+com\taotao\manager\controller\ItemController.class
+com\taotao\manager\datasource\DynamicDataSource.class
+com\taotao\manager\controller\ItemParamItemController.class
+com\taotao\manager\controller\api\ApiItemController.class
+com\taotao\manager\datasource\DynamicDataSourceHolder.class
+com\taotao\manager\controller\PageController.class
+com\taotao\manager\controller\api\ApiItemParamItemController.class
+com\taotao\manager\controller\PicUploadController.class
+com\taotao\manager\controller\ItemDescController.class

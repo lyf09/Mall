@@ -1,0 +1,6 @@
+http://127.0.0.1:8081/rest/page/login  
+
+本地host 位置：C:\Windows\System32\drivers\etc 修改host文件 
+用域名访问  http://manager.taotao.com:8081/rest/page/login 
+
+ 

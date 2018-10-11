@@ -1,0 +1,7 @@
+com\taotao\manager\mapper\ContentMapper.class
+com\taotao\manager\mapper\ItemDescMapper.class
+com\taotao\manager\mapper\ItemMapper.class
+com\taotao\manager\mapper\ItemParamMapper.class
+com\taotao\manager\mapper\ContentCategoryMapper.class
+com\taotao\manager\mapper\ItemCatMapper.class
+com\taotao\manager\mapper\ItemParamItemMapper.class
